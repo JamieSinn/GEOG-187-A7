@@ -1,0 +1,23 @@
+/*
+ * Start Bootstrap - Full (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    margin-top: 50px;
+}
+#map {
+ 
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ margin-right: -50%;
+ transform: translate(-50%, -50%);
+ width:85%;
+ height:80%;
+ -webkit-box-shadow: 20px 18px 19px -6px rgba(0,0,0,0.51);
+ -moz-box-shadow: 20px 18px 19px -6px rgba(0,0,0,0.51);
+ box-shadow: 20px 18px 19px -6px rgba(0,0,0,0.51);
+}
+
